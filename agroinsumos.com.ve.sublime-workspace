@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"avi",
+				"avicola_product"
+			],
+			[
+				"a",
+				"avicola_product"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"avo",
+				"avicola_product"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"color",
+				"color-blue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/agroinsumos.com.ve/index.html",
+		"/home/kuwox/ownCloud/Documents/Clientes/Organismo de Integración Cooperativa CECOSESOLA RL/citas",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_ponedora_purolomo.html",
+		"/var/www/html/agroinsumos.com.ve/dist/css/bootstrap.min.css",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_pollo_inicio.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_engorde_pollo_inicio.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_engorde_pollo_terminado.html",
+		"/var/www/html/agroinsumos.com.ve/avicola.html",
+		"/var/www/html/agroinsumos.com.ve/avicola1.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_pollo_crecimiento.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_pollo_pre_inicio.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_ponedora_agroinlaca.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_product.html",
+		"/var/www/html/agroinsumos.com.ve/bovino.html",
+		"/var/www/html/agroinsumos.com.ve/bovino_alternativa_bovina.html",
+		"/var/www/html/agroinsumos.com.ve/bovino_vlz18.html",
+		"/var/www/html/agroinsumos.com.ve/bovino_vlz22.html",
+		"/var/www/html/agroinsumos.com.ve/contacts.html",
+		"/var/www/html/agroinsumos.com.ve/domesticos_doguifood.html",
+		"/var/www/html/agroinsumos.com.ve/multiuso.html",
+		"/var/www/html/agroinsumos.com.ve/pollo_inicio.html",
+		"/var/www/html/agroinsumos.com.ve/porcino.html",
+		"/var/www/html/agroinsumos.com.ve/porcino_cerdo_especial.html",
+		"/var/www/html/agroinsumos.com.ve/porcino_cerdo_granjero.html",
+		"/var/www/html/agroinsumos.com.ve/products.html",
+		"/var/www/html/agroinsumos.com.ve/services.html",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/docs/examples/justified-nav/justified-nav.css",
+		"/var/www/html/agroinsumos.com.ve/dist/css/bootstrap.css",
+		"/var/www/html/agroinsumos.com.ve/justified-nav.css",
+		"/var/www/html/agroinsumos.com.ve/assets/css/docs.min.css",
+		"/var/www/html/agroinsumos.com.ve/assets/css/carousel.css",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/dist/css/bootstrap.min.css",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/dist/css/bootstrap.css",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/dist/css/bootstrap-theme.min.css",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/dist/css/bootstrap-theme.css",
+		"/var/www/html/agroinsumos.com.ve/avicola_ponedoras_ponedora.html",
+		"/var/www/html/agroinsumos.com.ve/dist/css/bootstrap-theme.css",
+		"/var/www/html/agroinsumos.com.ve/dist/css/bootstrap-theme.min.css",
+		"/var/www/html/agroinsumos.com.ve/avicola_pollo_terminado.html",
+		"/var/www/html/agroinsumos.com.ve/colum.html",
+		"/var/www/html/agroinsumos.com.ve/avicola_pollo_inicio.html",
+		"/var/www/html/agroinsumos.com.ve/menu.html",
+		"/var/www/html/agroinsumos.com.ve/rif",
+		"/var/www/html/agroinsumos.com.ve/carrusel.html",
+		"/home/kuwox/ownCloud/Documents/Clientes/Agroinsumos SS C.A./correos",
+		"/home/kuwox/APP/PC/Antivirus/Avast Internet Security 6.0.1367 Final.Full. Spanish.Silent Install.  AutoRegistrado/leeme.txt",
+		"/var/www/html/agroinsumos.com.ve/bootstrap/docs/examples/carousel/index.html",
+		"/media/kuwox/EE26-7EEB/autorun.inf",
+		"/home/kuwox/ownCloud/Documents/Clientes/Constructora Garden City C.A./Promotora Fortuna/Puntos y conexiones",
+		"/home/kuwox/ownCloud/Documents/Clientes/Constructora Garden City C.A./Promotora Fortuna/Cámaras",
+		"/var/www/html/interguaro.com.ve/index.html",
+		"/var/www/html/agroinsumos.com.ve/theme.css",
+		"/media/kuwox/52D1-10AA/autorun.inf",
+		"/var/www/html/spolzino.com.ve/bootstrap/docs/examples/carousel/index.html",
+		"/var/www/html/spolzino.com.ve/bootstrap/docs/examples/theme/index.html",
+		"/var/www/html/spolzino.com.ve/docs/examples/starter-template/starter-template.css",
+		"/var/www/html/spolzino.com.ve/docs/examples/starter-template/index.html",
+		"/var/www/html/spolzino.com.ve/docs/examples/carousel/index.html",
+		"/home/kuwox/presupuestoichen",
+		"/home/kuwox/ownCloud/Documents/Clientes/Transgomas FD C.A./Proyecto Web/prestashop.sql",
+		"/home/kuwox/ownCloud/Documents/Clientes/Transgomas FD C.A./Proyecto Web/Transgomas Informacion Importante",
+		"/home/kuwox/Descargas/RMA YOUTUBE/RMA/Instrucciones.txt",
+		"/home/kuwox/ownCloud/Documents/Clientes/Transgomas FD C.A./Datos www.transgomasfd.com.ve",
+		"/var/www/html/rma/system/core/Common.php",
+		"/var/www/html/rma/application/config/config.php",
+		"/var/www/html/rma/application/config/database.php",
+		"/home/kuwox/Descargas/RMA YOUTUBE/RMA/index.php",
+		"/var/www/html/buenavista/app/Controller/CustomersController.php",
+		"/var/www/html/buenavista/app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us",
+		"/run/user/1000/gvfs/dav:host=192.168.12.165,ssl=false,prefix=%2Fwebdav/buenavista.sql",
+		"/run/user/1000/gvfs/dav:host=192.168.12.165,ssl=false,prefix=%2Fwebdav/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ponedora agroinlaca",
+			"bovino.html",
+			"avicola.html",
+			"porcino.html",
+			"cerdo_granjero",
+			"cerdo_especial",
+			"avicola_ponedoras_ponedora.html",
+			"avicola_ponedoras_ponedor",
+			"ponedoras",
+			"avicola_ponedoras_pollo_pre_inicio",
+			"color",
+			"fuente\n\nfuente",
+			"fuente",
+			"domestico",
+			"padding-top:2",
+			"padding-top:20",
+			"padding-top: 0;",
+			"dding-top:20\npadding-top:",
+			"dding-top:20\npadding-top: 2;",
+			"dding-top:20\npadding-top: 20;",
+			"dding-top:20\npadding-top: 20px;",
+			"body",
+			"fb-page",
+			"#337ab7",
+			"#0c1a1e",
+			"footer",
+			"#fff",
+			"#ffffff",
+			"fondo_animales",
+			"row",
+			"animales do",
+			"animales",
+			"ponedoras_pone",
+			"ponedoras_ponedora",
+			"sin_",
+			"pollo inicio",
+			"font",
+			"purol",
+			"list-style:none",
+			"fuente",
+			"descrip",
+			"descripc",
+			"descrcio",
+			"descri",
+			"active",
+			"ledezm",
+			"j.lede",
+			"twitt",
+			"facebook",
+			"carousel-caption",
+			"#fff",
+			"carousel1",
+			">\n",
+			".css",
+			"../",
+			"favi",
+			"../",
+			"redirect_type",
+			"404",
+			"correo",
+			"imá"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<!",
+			"Inicio",
+			"jpg",
+			"html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true
+}
